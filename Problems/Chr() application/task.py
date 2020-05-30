@@ -1,0 +1,5 @@
+n1 = int(input())
+n2 = int(input())
+n3 = int(input())
+n4 = int(input())
+print(chr(n1), chr(n2), chr(n3), chr(n4), sep="")
